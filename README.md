@@ -17,11 +17,11 @@ Sequence:
     4) second photo electric sensor which is mounted inside, gets activated, gate is getting down until bottom is reached
     5) end of the sequence
 
-## Security requirements:
+## PLC-Garage-System security requirements:
 A. It must be considered that the wiring of the top and bottom sensors may be damaged/cuted.
 
 B. It must be considered that s1 or s2 sensor may start flickering which could cause the motor to constantly switch over
 
-## 2. PLC-Garage-System - ilustration
+## PLC-Garage-System - ilustration
 ![Ilustration](./overview.jpg)
 
