@@ -1,0 +1,4 @@
+VAR
+	Garage : ARRAY[0..2] OF GarageSystem;
+	Timers : ARRAY[0..2] OF TON;
+END_VAR
