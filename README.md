@@ -2,7 +2,7 @@ ST Programming Language:
 
 https://en.wikipedia.org/wiki/Structured_text
 
-Code written in:
+Dev environment:
 
 https://en.wikipedia.org/wiki/Automation_Studio
 
